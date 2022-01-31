@@ -4,7 +4,7 @@
     font-family: 'IBM Plex Sans Thai Looped', sans-serif;
     font-size: medium;
     transition-duration: 500ms;
-    cursor: url("../images/cursor.cur"),url("../images/cursor.png"),default
+    cursor: url("./images/cursor.png"),url("./images/cursor.cur"),default;
 }
 
 h1 {
